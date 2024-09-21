@@ -52,3 +52,7 @@ This Power BI project offers a holistic view of Zomato's operations by integrati
   
 The combination of powerful data visualization tools and DAX-driven calculations turns raw data into a strategic asset, helping Zomato optimize its performance in an increasingly competitive market.
 
+ # link to veiw :
+ 
+ https://drive.google.com/file/d/1zeoDI_Xxpz40KA9EUg2aj4RzlmvWFbH3/view?usp=sharing
+
